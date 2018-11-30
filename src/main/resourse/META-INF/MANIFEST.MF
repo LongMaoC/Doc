@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: javaparser-core-3.5.10.jar okio-1.13.0.jar
+Main-Class: com.cxy.doc.Doc
+
